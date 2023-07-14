@@ -15,7 +15,7 @@ https://localhost:3000?action=info&id=TOLOV_ID ni qo`yib kiriladi va Tekshirilad
 
 # Namuna
 
-https://localhost:3000?action=create&sum=1000&desc=(SaidqodirxonUz)&card=63e89684f9b3d2b5a8951d78
+https://payme-6hyp.onrender.com/api?action=create&sum=1000&desc=(SaidqodirxonUz)&card=63e89684f9b3d2b5a8951d78
 
 # Qo`llab Quvvatlash uchun
 
