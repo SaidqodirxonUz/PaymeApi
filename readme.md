@@ -14,13 +14,13 @@ THIS_IS_COMMENT = u yerda comment yoziladi diqqat commentizda probel orniga %20 
 Masalan : 
 https://payme-6hyp.onrender.com/api?action=create&sum=1000&desc=(Saidqodirxon%20Uz)&card=63e89684f9b3d2b5a8951d78
 
-https://localhost:3000/api?action=create&sum=AMOUNT&desc=(THIS_IS_COMMENT)&card=CARD_TOKEN
+https://localhost:5000/api?action=create&sum=AMOUNT&desc=(THIS_IS_COMMENT)&card=CARD_TOKEN
 
 # Tekshirish
 
 so'ng \_ID IDni
 
-https://localhost:3000/info?action=info&id=TOLOV_ID ni qo`yib kiriladi va Tekshiriladi
+https://localhost:5000/info?action=info&id=TOLOV_ID ni qo`yib kiriladi va Tekshiriladi
 
 # Namuna
 
